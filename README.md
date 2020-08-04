@@ -1,1 +1,2 @@
-# pandas_and_plots
+# learning python
+# pandas_pyplot_matplotlib_numpy
